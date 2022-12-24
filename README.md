@@ -1,6 +1,6 @@
 # IMGropper
 
-A image cropping gui application.
+A gui application to crop images.
 
 The application performs cropping multiple images to parts you want, with the same resolution.
 It only works in jpeg format. (I have plan to add other formats. Somedays...)
