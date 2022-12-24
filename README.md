@@ -15,7 +15,6 @@ python setup.py build #build to win32
 work resolution: The size of the main window you will use for your work.
 output resoultion: A image you will get at the end.
 work dir: Folder with images that need to be worked on.
-
 Mouse left: Save an image.
 Mouse right: To next image
 Mouse wheel: Change the size of the cropping rectangle.
