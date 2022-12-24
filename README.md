@@ -13,6 +13,7 @@ It's tested on Python3.10
 pip install -r requirement.txt #install required lib
 python setup.py build #build to win32
 ```
+Required lib: Pillow(PIL), cx_Freeze
 
 ## Usage
 
