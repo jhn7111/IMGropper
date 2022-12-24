@@ -3,7 +3,7 @@
 A image cropping gui application.
 
 The application performs cropping multiple images to parts you want, with the same resolution.
-It only works in jpeg format. (I have plans to add other formats. Somedays...)
+It only works in jpeg format. (I have plan to add other formats. Somedays...)
 
 ## Installation
 
