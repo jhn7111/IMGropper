@@ -2,7 +2,7 @@
 
 A image cropping gui application.
 
-The program that help you crop multiple images to the desired parts with the same resolution.
+The program that help you crops multiple images to the desired parts with the same resolution.
 
 It only works in jpeg format. (I have plans to add other formats. Somedays...)
 
