@@ -8,7 +8,7 @@ It only works in jpeg format. (I have plans to add other formats. Somedays...)
 
 ## Installation
 
-It tested on Python3.10
+It's tested on Python3.10
 
 ```python
 pip install -r requirement.txt #install required lib
