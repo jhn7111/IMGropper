@@ -32,7 +32,7 @@ Mouse wheel: Change the size of the cropping rectangle.
 Worked images will saved "work_dir\worked"
 
 ## ISSUE
-I only tested one envrionment, which is Windows 11.
+I only tested it on one envrionment, which is Windows 11.
 
 ## Contributing
 
